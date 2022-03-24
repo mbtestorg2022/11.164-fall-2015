@@ -80,7 +80,7 @@ Goodale, Mark. "Introduction." In _The Practice of Human Rights_. Edited by Mark
 
 Pogge, Thomas. "How Should Human Rights be Conceived?" In _The Philosophy of Human Rights._ Edited by Patrick Hayden. Paragon House, 2001, pp. 187–210. ISBN: 9781557787903.
 
-Nussbaum, Martha. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Capabilities and Human Rights." (PDF - 2.0MB)](http://www.palermo.edu/Archivos_content/2015/derecho/pobreza_multidimensional/bibliografia/Sesion3_doc1.pdf) _Fordham Law Review_ 66, no. 2 (1997): 273–300.
+Nussbaum, Martha. ["Capabilities and Human Rights." (PDF - 2.0MB)](http://www.palermo.edu/Archivos_content/2015/derecho/pobreza_multidimensional/bibliografia/Sesion3_doc1.pdf) _Fordham Law Review_ 66, no. 2 (1997): 273–300.
 
 
 {{< tdclose >}}
@@ -152,13 +152,13 @@ Dudziak, Mary L. "[Desegregation as a Cold War Imperative](http://www.jstor.org/
 
 Cynthia Soohoo, Catherine Albisa, and Martha F. Davis, eds. Chapters 1, 5, and 7 in _Bringing Human Rights Home: A History of Human Rights in the United States_. University of Pennsylvania Press, 2009. ISBN: 9780812220797.
 
-Davis, Martha. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Occupy Wall Street and International Human Rights." (PDF)](http://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2423&context=ulj) _Fordham Urban Law Journal_ 39, no. 4 (2012): 931–58.
+Davis, Martha. ["Occupy Wall Street and International Human Rights." (PDF)](http://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2423&context=ulj) _Fordham Urban Law Journal_ 39, no. 4 (2012): 931–58.
 
 Anderson, Carol. Chapter 5 in _Eyes Off the Prize: The United Nations and the African American Struggle for Human Rights, 1944–1955_. Cambridge University Press, 2003. ISBN: 9780521531580.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["National Report Submitted in Accordance with Paragraph 5 of the Annex to Human Rights Council Resolution 16/21\*" (PDF)](http://www.upr-info.org/sites/default/files/document/united_states/session_22_-_mai_2015/a_hrc_wg.6_22_usa_1_e.pdf) United Nations General Assembly, 2015.
+["National Report Submitted in Accordance with Paragraph 5 of the Annex to Human Rights Council Resolution 16/21\*" (PDF)](http://www.upr-info.org/sites/default/files/document/united_states/session_22_-_mai_2015/a_hrc_wg.6_22_usa_1_e.pdf) United Nations General Assembly, 2015.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["UPR Submission, United States." (PDF)](http://www.upr-info.org/sites/default/files/document/united_states/session_22_-_mai_2015/hrw_upr22_usa_e_main.pdf) Response by Human Rights Watch, 2014.
+["UPR Submission, United States." (PDF)](http://www.upr-info.org/sites/default/files/document/united_states/session_22_-_mai_2015/hrw_upr22_usa_e_main.pdf) Response by Human Rights Watch, 2014.
 
 ### Recommended
 
@@ -188,11 +188,11 @@ Luban, David. Chapters 1 and 2 in _Torture, Power, and Law_. Cambridge Universit
 
 \[DH\] Satterthwaite, Margaret. "The Story of _El Masri v. Tenet_: Human Rights and Humanitarian Law in the "War on Terror"."
 
-Report of the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Senate Select Committee on Intelligence (CIA Torture Report)." (PDF - 1.6MB)](http://www.feinstein.senate.gov/public/index.cfm/files/serve?File_id=a992171e-fd27-47bb-8917-5ebe98c72764&SK=04753BC866283C0F5913D7E1A24FA851) 2014, pp. 1–19 (Findings and Conclusions).
+Report of the ["Senate Select Committee on Intelligence (CIA Torture Report)." (PDF - 1.6MB)](http://www.feinstein.senate.gov/public/index.cfm/files/serve?File_id=a992171e-fd27-47bb-8917-5ebe98c72764&SK=04753BC866283C0F5913D7E1A24FA851) 2014, pp. 1–19 (Findings and Conclusions).
 
 ### Recommended
 
-Alston, Philip. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The CIA and Targetted Killings beyond borders." (PDF)](https://www.law.upenn.edu/institutes/cerl/conferences/targetedkilling/papers/AlstonCIABeyondBorders.pdf) _New York University School of Law Public Law and Legal Theory Research Working Paper_ 11–64 (2011).
+Alston, Philip. ["The CIA and Targetted Killings beyond borders." (PDF)](https://www.law.upenn.edu/institutes/cerl/conferences/targetedkilling/papers/AlstonCIABeyondBorders.pdf) _New York University School of Law Public Law and Legal Theory Research Working Paper_ 11–64 (2011).
 
 "[The Legal Prohibition Against Torture](https://www.hrw.org/news/2003/03/11/legal-prohibition-against-torture)." Human Rights Watch, 2003.
 
@@ -240,9 +240,9 @@ Pogge, Thomas. "[World Poverty and Human Rights](http://dx.doi.org/10.1111/j.174
 
 ———. "[The First Millenium Development Goal](http://www.carnegiecouncil.org/publications/articles_papers_reports/1076.html)." Paper Delivered at Carnegie Council, 2003.
 
-Reddy, Sanjay. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Counting the Poor: The Truth about World Poverty Statistics." (PDF)](http://socialistregister.com/index.php/srv/article/viewFile/5849/2745) _Socialist Register_ (2006): 168–79.
+Reddy, Sanjay. ["Counting the Poor: The Truth about World Poverty Statistics." (PDF)](http://socialistregister.com/index.php/srv/article/viewFile/5849/2745) _Socialist Register_ (2006): 168–79.
 
-Bhagwati, Jagdish, and T. N. Srinivasan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Trade and Poverty in the Poor Countries." (PDF)](https://pdfs.semanticscholar.org/1760/96ac55152e71127cb7ce75fbc8d47e1f2466.pdf?_ga=2.230081300.92222603.1565210069-672817412.1563980296)
+Bhagwati, Jagdish, and T. N. Srinivasan. ["Trade and Poverty in the Poor Countries." (PDF)](https://pdfs.semanticscholar.org/1760/96ac55152e71127cb7ce75fbc8d47e1f2466.pdf?_ga=2.230081300.92222603.1565210069-672817412.1563980296)
 
 Human Rights and Extreme Poverty, Report of the Independent Expert to the UN Council on Human Rights, E/CN.4/2005/49, 11 February 2005.
 
@@ -268,7 +268,7 @@ Gender, equality, and sexual minorities
 
 Brown, Wendy. "Suffering the Paradoxes of Rights." In _Left Legalism/Left Critique_. Edited by Wendy Brown and Janey Halley. Duke University Press, 2002, pp. 420–34. ISBN: 9780822329688.
 
-Halley, Janet, et al. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"From The International To The Local In Feminist Legal Responses To Rape, Prostitution/Sex Work, And Sex Trafficking: Four Studies In Contemporary Governance Feminism." (PDF)](http://www.law.harvard.edu/faculty/jhalley/cv/HJLG.vol%2029-2.pdf) _Harvard Journal of Law and Gender_ 29 (2006): 36.
+Halley, Janet, et al. ["From The International To The Local In Feminist Legal Responses To Rape, Prostitution/Sex Work, And Sex Trafficking: Four Studies In Contemporary Governance Feminism." (PDF)](http://www.law.harvard.edu/faculty/jhalley/cv/HJLG.vol%2029-2.pdf) _Harvard Journal of Law and Gender_ 29 (2006): 36.
 
 \[DH\] Bromley, Mark, and Kristen Walker. "The Stories of _Dudgeon and Toonen_: Personal Struggles to Legalize Sexual Identities."
 
@@ -342,11 +342,11 @@ Rieff, David. "[R2P, R.I.P.](http://www.nytimes.com/2011/11/08/opinion/r2p-rip.h
 
 ### Recommended
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_The Responsibility to Protect_, Report of the International Commission on Intervention and State Sovereignty." (PDF - 3.8MB)](http://responsibilitytoprotect.org/ICISS%20Report.pdf) 2001.
+["_The Responsibility to Protect_, Report of the International Commission on Intervention and State Sovereignty." (PDF - 3.8MB)](http://responsibilitytoprotect.org/ICISS%20Report.pdf) 2001.
 
 Berman, Nathaniel. "[Intervention in a 'Divided World': Axes of Legitimacy](http://dx.doi.org/10.1093/ejil/chl025)." _European Journal of International Law_ 17, no. 4 (2006): 743–69.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Report of the Secretary-General's High-level Panel on Threats, Challenges and Change." (PDF - 1.8MB)](http://hrlibrary.umn.edu/instree/report.pdf) (United Nations, 2004)
+["Report of the Secretary-General's High-level Panel on Threats, Challenges and Change." (PDF - 1.8MB)](http://hrlibrary.umn.edu/instree/report.pdf) (United Nations, 2004)
 
 Koskenniemi, Martti. "[The Lady Doth Protest too Much: Kosovo, and the Turn to Ethics in International Law](http://dx.doi.org/10.1111/1468-2230.00373)." _The Modern Law Review_ 65, no. 2 (2002): 159–75.
 
